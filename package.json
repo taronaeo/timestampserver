@@ -1,0 +1,13 @@
+{
+  "name": "timestampserver",
+  "version": "1.0.0",
+  "description": "SMB file watch server for converting raw photos to timestamp photos",
+  "main": "main.js",
+  "repository": "https://github.com/taronaeo/timestampserver",
+  "author": "Aaron Teo <aaron.teo@riv-alumni.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
